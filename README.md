@@ -4,4 +4,4 @@ This repository intends to be a collection of IPython notebooks that deal with a
 
 Read them in nbviewer:
 
-- [Submarine channel sinuosities](http://nbviewer.org/github/zsylvester/notebooks/blob/master/submarine_channels.ipynb) — A critical look at how submarine channel sinuosities change with latitude and slope
+- [Submarine channel sinuosities](http://nbviewer.org/github/zsylvester/notebooks/blob/master/channel_sinuosities.ipynb) — A critical look at how submarine channel sinuosities change with latitude and slope
